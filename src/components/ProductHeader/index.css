@@ -1,0 +1,25 @@
+.sort-by-container {
+  display: flex;
+  flex-direction: row;
+}
+.sort-by-icon {
+  height: 30px;
+}
+.sort-by {
+  height: 20px;
+  font-size: 24px;
+  margin-right: 12px;
+  margin-top: 0px;
+}
+.sort-by-select {
+  height: 30px;
+}
+.products-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.products-list-heading {
+  margin-right: 30px;
+  margin-top: 0px;
+}

@@ -1,0 +1,16 @@
+.home-container {
+  display: flex;
+  justify-content: column;
+}
+.image-shop {
+  height: 100%;
+  width: 1200px;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 80px;
+}
+.btn-shop {
+  background-color: blue;
+  color: white;
+  border: 0px none;
+  border-radius: 20px;
+}
